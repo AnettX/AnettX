@@ -6,7 +6,7 @@ I’m interested in coding, web development, and technology.
 
 Skills: REACT / JS / HTML / CSS
 
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on pet projects in programming 
 - ⚡ Fun fact: Once upon a time, I befriended ChatGPT while diving into JavaScript 
 
