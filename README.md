@@ -1,6 +1,6 @@
 ### Hi there 👋, I’m Aneta
 #### Junior frontend developer
-![Junior frontend developer]([![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=AnettX&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only))
+![Junior frontend developer](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnettX&show_icons=true&theme=radical))
 
 I’m interested in coding, web development, and technology. 
 
