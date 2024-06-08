@@ -16,7 +16,10 @@ I’m interested in coding, web development, and technology.
 
 ###
 
-![Snake animation](https://github.com/AnettX/AnettX/blob/output/github-contribution-grid-snake.svg)
+
+
+<img src="https://raw.githubusercontent.com/AnettX/AnettX/output/snake.svg" alt="Snake animation" />
+
 
 
 ###
