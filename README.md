@@ -17,5 +17,7 @@ I’m interested in coding, web development, and technology.
 ###
 
 <img src="https://raw.githubusercontent.com/AnettX/AnettX/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/<AnettX>/<AnettX>/blob/output/github-contribution-grid-snake2.svg" alt="Snake animation" />
+
 
 ###
