@@ -13,3 +13,9 @@ I’m interested in coding, web development, and technology.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AnettX)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/a-badova/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/AnetaBadova)  
 
+
+###
+
+<img src="https://raw.githubusercontent.com/AnettX/AnettX/output/snake.svg" alt="Snake animation" />
+
+###
